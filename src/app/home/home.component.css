@@ -1,0 +1,28 @@
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: linear-gradient(to right,  rgb(255, 117, 138),pink);
+}
+li
+{
+    float: left;
+}
+li a
+{
+    display: block;
+    color: rgb(2, 44, 38);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover
+{
+    background-color: brown;
+}
+p
+{
+    color:rgb(2, 44, 38);
+}
